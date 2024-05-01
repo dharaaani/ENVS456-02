@@ -1,7 +1,7 @@
 name: gis
 channels:
   - defaults
-  -pyviz
+  - pyviz
 dependencies:
   - bzip2=1.0.8
   - ca-certificates=2023.12.12
